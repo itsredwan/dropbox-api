@@ -1,0 +1,9 @@
+{
+    "require": {
+        "spatie/dropbox-api": "^1.21",
+        "spatie/flysystem-dropbox": "^2.0"
+    }
+    "config": {
+        "platform-check": false
+    }
+}
